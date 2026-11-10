@@ -1,6 +1,6 @@
 # Publication route and status
 
-Status: release candidate in preparation; no new publication or journal submission has been made by this package.
+Status: software and saved development data are public at https://github.com/otcan/peplab-bench (2026-11-10). The initial 66-file tree exactly matches the prepared release. Fresh-clone installation, 16 contract/saved-data tests, data verification and saved-results HTML export passed. No Zenodo record publication or journal submission has been made by this package.
 
 Author: Oğuzcan Unver. Affiliation, corresponding-author details, ORCID, competing interests, funding and author contribution statement must be verified from the author's actual records before submission; no identity or role is invented here.
 

@@ -9,7 +9,7 @@
 - [ ] Fresh full-model portability qualification (not performed by local contract tests).
 - [ ] Academic scientific review of the current200-start revision reconciled.
 - [ ] Author verifies affiliation, contact, ORCID if used, contributions, funding and competing interests.
-- [ ] GitHub repository created and exact source commit verified.
+- [x] Public GitHub repository created; all 66 source files match the prepared tree; fresh-clone install, 16 contract/saved-data tests, data verification and saved-results HTML export pass.
 - [ ] Zenodo authenticated draft reconciled and linked dataset/software/preprint metadata saved.
 - [ ] Actual DOI/version/citation links inserted and verified before publication.
 - [ ] Journal-specific AI policy and submission requirements checked on final text.
