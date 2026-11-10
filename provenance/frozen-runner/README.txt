@@ -1,0 +1,1 @@
+Exact frozen remote scientific sources for audit. Original environment/path/financial assertions are preserved; no host controllers, credentials or cloud launchers are included. These files are provenance, not the portable CLI. Install and use the package as documented in the repository README. Original protocol has been allowlisted separately.

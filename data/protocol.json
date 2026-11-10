@@ -1,0 +1,2183 @@
+{
+  "version": "repetitions200-v1",
+  "frozen_at_UTC": "2026-11-04T11:49:31.178350+00:00",
+  "candidate_ids": [
+    "IEDB_MHC_1873387",
+    "IEDB_MHC_1879424",
+    "IEDB_MHC_1879621",
+    "IEDB_MHC_1871535",
+    "IEDB_MHC_1872492",
+    "IEDB_MHC_1872191",
+    "IEDB_MHC_1879409",
+    "IEDB_MHC_1872928",
+    "IEDB_MHC_1879425",
+    "IEDB_MHC_1869570",
+    "IEDB_MHC_1871364",
+    "IEDB_MHC_1871313",
+    "IEDB_MHC_1869885",
+    "IEDB_MHC_1870558",
+    "IEDB_MHC_1868816",
+    "IEDB_MHC_1869555",
+    "IEDB_MHC_1870823",
+    "IEDB_MHC_1871218",
+    "IEDB_MHC_1870766",
+    "IEDB_MHC_1870446",
+    "IEDB_MHC_1873843",
+    "IEDB_MHC_1870916",
+    "IEDB_MHC_1869355",
+    "IEDB_MHC_1869810",
+    "IEDB_MHC_1868601",
+    "IEDB_MHC_1869880",
+    "IEDB_MHC_1879535",
+    "IEDB_MHC_1874388",
+    "IEDB_MHC_1870700",
+    "IEDB_MHC_1870939",
+    "IEDB_MHC_1870466",
+    "IEDB_MHC_1868496",
+    "IEDB_MHC_1873422",
+    "IEDB_MHC_1869755",
+    "IEDB_MHC_1873963",
+    "IEDB_MHC_1870699",
+    "IEDB_MHC_1873261",
+    "IEDB_MHC_1874755",
+    "IEDB_MHC_1874775",
+    "IEDB_MHC_1870725",
+    "IEDB_MHC_1870732",
+    "IEDB_MHC_1872427",
+    "IEDB_MHC_1870760",
+    "IEDB_MHC_1880734",
+    "IEDB_MHC_1869925",
+    "IEDB_MHC_1873883",
+    "IEDB_MHC_1874113",
+    "IEDB_MHC_1872402",
+    "IEDB_MHC_1870953",
+    "IEDB_MHC_1873782",
+    "IEDB_MHC_1874318",
+    "IEDB_MHC_1879686",
+    "IEDB_MHC_1872171",
+    "IEDB_MHC_1879103",
+    "IEDB_MHC_1879183",
+    "IEDB_MHC_1872803",
+    "IEDB_MHC_1874940",
+    "IEDB_MHC_1870798",
+    "IEDB_MHC_1871144",
+    "IEDB_MHC_1879776",
+    "IEDB_MHC_1870647",
+    "IEDB_MHC_1870461",
+    "IEDB_MHC_1869920",
+    "IEDB_MHC_1867637",
+    "IEDB_MHC_1871123",
+    "IEDB_MHC_1879422",
+    "IEDB_MHC_1870711",
+    "IEDB_MHC_1871225",
+    "IEDB_MHC_1870973",
+    "IEDB_MHC_1870532",
+    "IEDB_MHC_1871015",
+    "IEDB_MHC_1871068",
+    "IEDB_MHC_1869168",
+    "IEDB_MHC_1879785",
+    "IEDB_MHC_1870844",
+    "IEDB_MHC_1872041",
+    "IEDB_MHC_1879158",
+    "IEDB_MHC_1869585",
+    "IEDB_MHC_1872311",
+    "IEDB_MHC_1879631",
+    "IEDB_MHC_1869480",
+    "IEDB_MHC_1870872",
+    "IEDB_MHC_1871716",
+    "IEDB_MHC_1868024",
+    "IEDB_MHC_1872001",
+    "IEDB_MHC_1870897",
+    "IEDB_MHC_1869515",
+    "IEDB_MHC_1880725",
+    "IEDB_MHC_1871117",
+    "IEDB_MHC_1868371",
+    "IEDB_MHC_1870629",
+    "IEDB_MHC_1867272",
+    "IEDB_MHC_1879408",
+    "IEDB_MHC_1870963",
+    "IEDB_MHC_1873983",
+    "IEDB_MHC_1872031",
+    "IEDB_MHC_1873527",
+    "IEDB_MHC_1870918",
+    "IEDB_MHC_1879108",
+    "IEDB_MHC_1871058",
+    "IEDB_MHC_1873592",
+    "IEDB_MHC_1869715",
+    "IEDB_MHC_1871220",
+    "IEDB_MHC_1870468",
+    "IEDB_MHC_1875030",
+    "IEDB_MHC_1869208",
+    "IEDB_MHC_1870829",
+    "IEDB_MHC_1874680",
+    "IEDB_MHC_1868716",
+    "IEDB_MHC_1873342",
+    "IEDB_MHC_1879112",
+    "IEDB_MHC_1880495",
+    "IEDB_MHC_1870524",
+    "IEDB_MHC_1879090",
+    "IEDB_MHC_1879723",
+    "IEDB_MHC_1871786",
+    "IEDB_MHC_1870803",
+    "IEDB_MHC_1873246",
+    "IEDB_MHC_1868786",
+    "IEDB_MHC_1879093",
+    "IEDB_MHC_1867952",
+    "IEDB_MHC_1872487",
+    "IEDB_MHC_1866747",
+    "IEDB_MHC_1871273",
+    "IEDB_MHC_1879150",
+    "IEDB_MHC_1871331",
+    "IEDB_MHC_1871150",
+    "IEDB_MHC_1869745",
+    "IEDB_MHC_1880572",
+    "IEDB_MHC_1879675",
+    "IEDB_MHC_1871195",
+    "IEDB_MHC_1870905",
+    "IEDB_MHC_1872863",
+    "IEDB_MHC_1873848",
+    "IEDB_MHC_1879683",
+    "IEDB_MHC_1874368",
+    "IEDB_MHC_1875065",
+    "IEDB_MHC_1869470",
+    "IEDB_MHC_1879756",
+    "IEDB_MHC_1879347",
+    "IEDB_MHC_1879793",
+    "IEDB_MHC_1871226",
+    "IEDB_MHC_1879531",
+    "IEDB_MHC_1880569",
+    "IEDB_MHC_1873818",
+    "IEDB_MHC_1879404",
+    "IEDB_MHC_1870671",
+    "IEDB_MHC_1869090",
+    "IEDB_MHC_1869830",
+    "IEDB_MHC_1879642",
+    "IEDB_MHC_1871362",
+    "IEDB_MHC_1871367",
+    "IEDB_MHC_1869550",
+    "IEDB_MHC_1870763",
+    "IEDB_MHC_1869660",
+    "IEDB_MHC_1879499",
+    "IEDB_MHC_1880325",
+    "IEDB_MHC_1879731",
+    "IEDB_MHC_1869228",
+    "IEDB_MHC_1880379"
+  ],
+  "seeds": [
+    2026110420,
+    2026110421,
+    2026110422,
+    2026110423,
+    2026110424,
+    2026110425,
+    2026110426,
+    2026110427,
+    2026110428,
+    2026110429,
+    2026110430,
+    2026110431,
+    2026110432,
+    2026110433,
+    2026110434,
+    2026110435,
+    2026110436,
+    2026110437,
+    2026110438,
+    2026110439,
+    2026110440,
+    2026110441,
+    2026110442,
+    2026110443,
+    2026110444,
+    2026110445,
+    2026110446,
+    2026110447,
+    2026110448,
+    2026110449,
+    2026110450,
+    2026110451,
+    2026110452,
+    2026110453,
+    2026110454,
+    2026110455,
+    2026110456,
+    2026110457,
+    2026110458,
+    2026110459,
+    2026110460,
+    2026110461,
+    2026110462,
+    2026110463,
+    2026110464,
+    2026110465,
+    2026110466,
+    2026110467,
+    2026110468,
+    2026110469,
+    2026110470,
+    2026110471,
+    2026110472,
+    2026110473,
+    2026110474,
+    2026110475,
+    2026110476,
+    2026110477,
+    2026110478,
+    2026110479,
+    2026110480,
+    2026110481,
+    2026110482,
+    2026110483,
+    2026110484,
+    2026110485,
+    2026110486,
+    2026110487,
+    2026110488,
+    2026110489,
+    2026110490,
+    2026110491,
+    2026110492,
+    2026110493,
+    2026110494,
+    2026110495,
+    2026110496,
+    2026110497,
+    2026110498,
+    2026110499,
+    2026110500,
+    2026110501,
+    2026110502,
+    2026110503,
+    2026110504,
+    2026110505,
+    2026110506,
+    2026110507,
+    2026110508,
+    2026110509,
+    2026110510,
+    2026110511,
+    2026110512,
+    2026110513,
+    2026110514,
+    2026110515,
+    2026110516,
+    2026110517,
+    2026110518,
+    2026110519,
+    2026110520,
+    2026110521,
+    2026110522,
+    2026110523,
+    2026110524,
+    2026110525,
+    2026110526,
+    2026110527,
+    2026110528,
+    2026110529,
+    2026110530,
+    2026110531,
+    2026110532,
+    2026110533,
+    2026110534,
+    2026110535,
+    2026110536,
+    2026110537,
+    2026110538,
+    2026110539,
+    2026110540,
+    2026110541,
+    2026110542,
+    2026110543,
+    2026110544,
+    2026110545,
+    2026110546,
+    2026110547,
+    2026110548,
+    2026110549,
+    2026110550,
+    2026110551,
+    2026110552,
+    2026110553,
+    2026110554,
+    2026110555,
+    2026110556,
+    2026110557,
+    2026110558,
+    2026110559,
+    2026110560,
+    2026110561,
+    2026110562,
+    2026110563,
+    2026110564,
+    2026110565,
+    2026110566,
+    2026110567,
+    2026110568,
+    2026110569,
+    2026110570,
+    2026110571,
+    2026110572,
+    2026110573,
+    2026110574,
+    2026110575,
+    2026110576,
+    2026110577,
+    2026110578,
+    2026110579,
+    2026110580,
+    2026110581,
+    2026110582,
+    2026110583,
+    2026110584,
+    2026110585,
+    2026110586,
+    2026110587,
+    2026110588,
+    2026110589,
+    2026110590,
+    2026110591,
+    2026110592,
+    2026110593,
+    2026110594,
+    2026110595,
+    2026110596,
+    2026110597,
+    2026110598,
+    2026110599
+  ],
+  "combined_seeds": [
+    2026110400,
+    2026110401,
+    2026110402,
+    2026110403,
+    2026110404,
+    2026110405,
+    2026110406,
+    2026110407,
+    2026110408,
+    2026110409,
+    2026110410,
+    2026110411,
+    2026110412,
+    2026110413,
+    2026110414,
+    2026110415,
+    2026110416,
+    2026110417,
+    2026110418,
+    2026110419,
+    2026110420,
+    2026110421,
+    2026110422,
+    2026110423,
+    2026110424,
+    2026110425,
+    2026110426,
+    2026110427,
+    2026110428,
+    2026110429,
+    2026110430,
+    2026110431,
+    2026110432,
+    2026110433,
+    2026110434,
+    2026110435,
+    2026110436,
+    2026110437,
+    2026110438,
+    2026110439,
+    2026110440,
+    2026110441,
+    2026110442,
+    2026110443,
+    2026110444,
+    2026110445,
+    2026110446,
+    2026110447,
+    2026110448,
+    2026110449,
+    2026110450,
+    2026110451,
+    2026110452,
+    2026110453,
+    2026110454,
+    2026110455,
+    2026110456,
+    2026110457,
+    2026110458,
+    2026110459,
+    2026110460,
+    2026110461,
+    2026110462,
+    2026110463,
+    2026110464,
+    2026110465,
+    2026110466,
+    2026110467,
+    2026110468,
+    2026110469,
+    2026110470,
+    2026110471,
+    2026110472,
+    2026110473,
+    2026110474,
+    2026110475,
+    2026110476,
+    2026110477,
+    2026110478,
+    2026110479,
+    2026110480,
+    2026110481,
+    2026110482,
+    2026110483,
+    2026110484,
+    2026110485,
+    2026110486,
+    2026110487,
+    2026110488,
+    2026110489,
+    2026110490,
+    2026110491,
+    2026110492,
+    2026110493,
+    2026110494,
+    2026110495,
+    2026110496,
+    2026110497,
+    2026110498,
+    2026110499,
+    2026110500,
+    2026110501,
+    2026110502,
+    2026110503,
+    2026110504,
+    2026110505,
+    2026110506,
+    2026110507,
+    2026110508,
+    2026110509,
+    2026110510,
+    2026110511,
+    2026110512,
+    2026110513,
+    2026110514,
+    2026110515,
+    2026110516,
+    2026110517,
+    2026110518,
+    2026110519,
+    2026110520,
+    2026110521,
+    2026110522,
+    2026110523,
+    2026110524,
+    2026110525,
+    2026110526,
+    2026110527,
+    2026110528,
+    2026110529,
+    2026110530,
+    2026110531,
+    2026110532,
+    2026110533,
+    2026110534,
+    2026110535,
+    2026110536,
+    2026110537,
+    2026110538,
+    2026110539,
+    2026110540,
+    2026110541,
+    2026110542,
+    2026110543,
+    2026110544,
+    2026110545,
+    2026110546,
+    2026110547,
+    2026110548,
+    2026110549,
+    2026110550,
+    2026110551,
+    2026110552,
+    2026110553,
+    2026110554,
+    2026110555,
+    2026110556,
+    2026110557,
+    2026110558,
+    2026110559,
+    2026110560,
+    2026110561,
+    2026110562,
+    2026110563,
+    2026110564,
+    2026110565,
+    2026110566,
+    2026110567,
+    2026110568,
+    2026110569,
+    2026110570,
+    2026110571,
+    2026110572,
+    2026110573,
+    2026110574,
+    2026110575,
+    2026110576,
+    2026110577,
+    2026110578,
+    2026110579,
+    2026110580,
+    2026110581,
+    2026110582,
+    2026110583,
+    2026110584,
+    2026110585,
+    2026110586,
+    2026110587,
+    2026110588,
+    2026110589,
+    2026110590,
+    2026110591,
+    2026110592,
+    2026110593,
+    2026110594,
+    2026110595,
+    2026110596,
+    2026110597,
+    2026110598,
+    2026110599
+  ],
+  "original_seeds": [
+    2026110400,
+    2026110401,
+    2026110402,
+    2026110403,
+    2026110404,
+    2026110405,
+    2026110406,
+    2026110407,
+    2026110408,
+    2026110409,
+    2026110410,
+    2026110411,
+    2026110412,
+    2026110413,
+    2026110414,
+    2026110415,
+    2026110416,
+    2026110417,
+    2026110418,
+    2026110419
+  ],
+  "configurations": [
+    {
+      "id": "S__GP__greedy",
+      "sources": [
+        "S"
+      ],
+      "predictor": "GP",
+      "selector": "greedy"
+    },
+    {
+      "id": "S__GP__EI",
+      "sources": [
+        "S"
+      ],
+      "predictor": "GP",
+      "selector": "EI"
+    },
+    {
+      "id": "S__GP__UCB",
+      "sources": [
+        "S"
+      ],
+      "predictor": "GP",
+      "selector": "UCB"
+    },
+    {
+      "id": "S__GP__TS",
+      "sources": [
+        "S"
+      ],
+      "predictor": "GP",
+      "selector": "TS"
+    },
+    {
+      "id": "S__GP__top8utility",
+      "sources": [
+        "S"
+      ],
+      "predictor": "GP",
+      "selector": "top8utility"
+    },
+    {
+      "id": "S__XGB_bootstrap16__greedy",
+      "sources": [
+        "S"
+      ],
+      "predictor": "XGB_bootstrap16",
+      "selector": "greedy"
+    },
+    {
+      "id": "S__XGB_bootstrap16__EI",
+      "sources": [
+        "S"
+      ],
+      "predictor": "XGB_bootstrap16",
+      "selector": "EI"
+    },
+    {
+      "id": "S__XGB_bootstrap16__UCB",
+      "sources": [
+        "S"
+      ],
+      "predictor": "XGB_bootstrap16",
+      "selector": "UCB"
+    },
+    {
+      "id": "S__XGB_bootstrap16__TS",
+      "sources": [
+        "S"
+      ],
+      "predictor": "XGB_bootstrap16",
+      "selector": "TS"
+    },
+    {
+      "id": "S__XGB_bootstrap16__top8utility",
+      "sources": [
+        "S"
+      ],
+      "predictor": "XGB_bootstrap16",
+      "selector": "top8utility"
+    },
+    {
+      "id": "C__GP__greedy",
+      "sources": [
+        "C"
+      ],
+      "predictor": "GP",
+      "selector": "greedy"
+    },
+    {
+      "id": "C__GP__EI",
+      "sources": [
+        "C"
+      ],
+      "predictor": "GP",
+      "selector": "EI"
+    },
+    {
+      "id": "C__GP__UCB",
+      "sources": [
+        "C"
+      ],
+      "predictor": "GP",
+      "selector": "UCB"
+    },
+    {
+      "id": "C__GP__TS",
+      "sources": [
+        "C"
+      ],
+      "predictor": "GP",
+      "selector": "TS"
+    },
+    {
+      "id": "C__GP__top8utility",
+      "sources": [
+        "C"
+      ],
+      "predictor": "GP",
+      "selector": "top8utility"
+    },
+    {
+      "id": "C__XGB_bootstrap16__greedy",
+      "sources": [
+        "C"
+      ],
+      "predictor": "XGB_bootstrap16",
+      "selector": "greedy"
+    },
+    {
+      "id": "C__XGB_bootstrap16__EI",
+      "sources": [
+        "C"
+      ],
+      "predictor": "XGB_bootstrap16",
+      "selector": "EI"
+    },
+    {
+      "id": "C__XGB_bootstrap16__UCB",
+      "sources": [
+        "C"
+      ],
+      "predictor": "XGB_bootstrap16",
+      "selector": "UCB"
+    },
+    {
+      "id": "C__XGB_bootstrap16__TS",
+      "sources": [
+        "C"
+      ],
+      "predictor": "XGB_bootstrap16",
+      "selector": "TS"
+    },
+    {
+      "id": "C__XGB_bootstrap16__top8utility",
+      "sources": [
+        "C"
+      ],
+      "predictor": "XGB_bootstrap16",
+      "selector": "top8utility"
+    },
+    {
+      "id": "K__GP__greedy",
+      "sources": [
+        "K"
+      ],
+      "predictor": "GP",
+      "selector": "greedy"
+    },
+    {
+      "id": "K__GP__EI",
+      "sources": [
+        "K"
+      ],
+      "predictor": "GP",
+      "selector": "EI"
+    },
+    {
+      "id": "K__GP__UCB",
+      "sources": [
+        "K"
+      ],
+      "predictor": "GP",
+      "selector": "UCB"
+    },
+    {
+      "id": "K__GP__TS",
+      "sources": [
+        "K"
+      ],
+      "predictor": "GP",
+      "selector": "TS"
+    },
+    {
+      "id": "K__GP__top8utility",
+      "sources": [
+        "K"
+      ],
+      "predictor": "GP",
+      "selector": "top8utility"
+    },
+    {
+      "id": "K__XGB_bootstrap16__greedy",
+      "sources": [
+        "K"
+      ],
+      "predictor": "XGB_bootstrap16",
+      "selector": "greedy"
+    },
+    {
+      "id": "K__XGB_bootstrap16__EI",
+      "sources": [
+        "K"
+      ],
+      "predictor": "XGB_bootstrap16",
+      "selector": "EI"
+    },
+    {
+      "id": "K__XGB_bootstrap16__UCB",
+      "sources": [
+        "K"
+      ],
+      "predictor": "XGB_bootstrap16",
+      "selector": "UCB"
+    },
+    {
+      "id": "K__XGB_bootstrap16__TS",
+      "sources": [
+        "K"
+      ],
+      "predictor": "XGB_bootstrap16",
+      "selector": "TS"
+    },
+    {
+      "id": "K__XGB_bootstrap16__top8utility",
+      "sources": [
+        "K"
+      ],
+      "predictor": "XGB_bootstrap16",
+      "selector": "top8utility"
+    },
+    {
+      "id": "E__GP__greedy",
+      "sources": [
+        "E"
+      ],
+      "predictor": "GP",
+      "selector": "greedy"
+    },
+    {
+      "id": "E__GP__EI",
+      "sources": [
+        "E"
+      ],
+      "predictor": "GP",
+      "selector": "EI"
+    },
+    {
+      "id": "E__GP__UCB",
+      "sources": [
+        "E"
+      ],
+      "predictor": "GP",
+      "selector": "UCB"
+    },
+    {
+      "id": "E__GP__TS",
+      "sources": [
+        "E"
+      ],
+      "predictor": "GP",
+      "selector": "TS"
+    },
+    {
+      "id": "E__GP__top8utility",
+      "sources": [
+        "E"
+      ],
+      "predictor": "GP",
+      "selector": "top8utility"
+    },
+    {
+      "id": "E__XGB_bootstrap16__greedy",
+      "sources": [
+        "E"
+      ],
+      "predictor": "XGB_bootstrap16",
+      "selector": "greedy"
+    },
+    {
+      "id": "E__XGB_bootstrap16__EI",
+      "sources": [
+        "E"
+      ],
+      "predictor": "XGB_bootstrap16",
+      "selector": "EI"
+    },
+    {
+      "id": "E__XGB_bootstrap16__UCB",
+      "sources": [
+        "E"
+      ],
+      "predictor": "XGB_bootstrap16",
+      "selector": "UCB"
+    },
+    {
+      "id": "E__XGB_bootstrap16__TS",
+      "sources": [
+        "E"
+      ],
+      "predictor": "XGB_bootstrap16",
+      "selector": "TS"
+    },
+    {
+      "id": "E__XGB_bootstrap16__top8utility",
+      "sources": [
+        "E"
+      ],
+      "predictor": "XGB_bootstrap16",
+      "selector": "top8utility"
+    },
+    {
+      "id": "SC__GP__greedy",
+      "sources": [
+        "S",
+        "C"
+      ],
+      "predictor": "GP",
+      "selector": "greedy"
+    },
+    {
+      "id": "SC__GP__EI",
+      "sources": [
+        "S",
+        "C"
+      ],
+      "predictor": "GP",
+      "selector": "EI"
+    },
+    {
+      "id": "SC__GP__UCB",
+      "sources": [
+        "S",
+        "C"
+      ],
+      "predictor": "GP",
+      "selector": "UCB"
+    },
+    {
+      "id": "SC__GP__TS",
+      "sources": [
+        "S",
+        "C"
+      ],
+      "predictor": "GP",
+      "selector": "TS"
+    },
+    {
+      "id": "SC__GP__top8utility",
+      "sources": [
+        "S",
+        "C"
+      ],
+      "predictor": "GP",
+      "selector": "top8utility"
+    },
+    {
+      "id": "SC__XGB_bootstrap16__greedy",
+      "sources": [
+        "S",
+        "C"
+      ],
+      "predictor": "XGB_bootstrap16",
+      "selector": "greedy"
+    },
+    {
+      "id": "SC__XGB_bootstrap16__EI",
+      "sources": [
+        "S",
+        "C"
+      ],
+      "predictor": "XGB_bootstrap16",
+      "selector": "EI"
+    },
+    {
+      "id": "SC__XGB_bootstrap16__UCB",
+      "sources": [
+        "S",
+        "C"
+      ],
+      "predictor": "XGB_bootstrap16",
+      "selector": "UCB"
+    },
+    {
+      "id": "SC__XGB_bootstrap16__TS",
+      "sources": [
+        "S",
+        "C"
+      ],
+      "predictor": "XGB_bootstrap16",
+      "selector": "TS"
+    },
+    {
+      "id": "SC__XGB_bootstrap16__top8utility",
+      "sources": [
+        "S",
+        "C"
+      ],
+      "predictor": "XGB_bootstrap16",
+      "selector": "top8utility"
+    },
+    {
+      "id": "SK__GP__greedy",
+      "sources": [
+        "S",
+        "K"
+      ],
+      "predictor": "GP",
+      "selector": "greedy"
+    },
+    {
+      "id": "SK__GP__EI",
+      "sources": [
+        "S",
+        "K"
+      ],
+      "predictor": "GP",
+      "selector": "EI"
+    },
+    {
+      "id": "SK__GP__UCB",
+      "sources": [
+        "S",
+        "K"
+      ],
+      "predictor": "GP",
+      "selector": "UCB"
+    },
+    {
+      "id": "SK__GP__TS",
+      "sources": [
+        "S",
+        "K"
+      ],
+      "predictor": "GP",
+      "selector": "TS"
+    },
+    {
+      "id": "SK__GP__top8utility",
+      "sources": [
+        "S",
+        "K"
+      ],
+      "predictor": "GP",
+      "selector": "top8utility"
+    },
+    {
+      "id": "SK__XGB_bootstrap16__greedy",
+      "sources": [
+        "S",
+        "K"
+      ],
+      "predictor": "XGB_bootstrap16",
+      "selector": "greedy"
+    },
+    {
+      "id": "SK__XGB_bootstrap16__EI",
+      "sources": [
+        "S",
+        "K"
+      ],
+      "predictor": "XGB_bootstrap16",
+      "selector": "EI"
+    },
+    {
+      "id": "SK__XGB_bootstrap16__UCB",
+      "sources": [
+        "S",
+        "K"
+      ],
+      "predictor": "XGB_bootstrap16",
+      "selector": "UCB"
+    },
+    {
+      "id": "SK__XGB_bootstrap16__TS",
+      "sources": [
+        "S",
+        "K"
+      ],
+      "predictor": "XGB_bootstrap16",
+      "selector": "TS"
+    },
+    {
+      "id": "SK__XGB_bootstrap16__top8utility",
+      "sources": [
+        "S",
+        "K"
+      ],
+      "predictor": "XGB_bootstrap16",
+      "selector": "top8utility"
+    },
+    {
+      "id": "SE__GP__greedy",
+      "sources": [
+        "S",
+        "E"
+      ],
+      "predictor": "GP",
+      "selector": "greedy"
+    },
+    {
+      "id": "SE__GP__EI",
+      "sources": [
+        "S",
+        "E"
+      ],
+      "predictor": "GP",
+      "selector": "EI"
+    },
+    {
+      "id": "SE__GP__UCB",
+      "sources": [
+        "S",
+        "E"
+      ],
+      "predictor": "GP",
+      "selector": "UCB"
+    },
+    {
+      "id": "SE__GP__TS",
+      "sources": [
+        "S",
+        "E"
+      ],
+      "predictor": "GP",
+      "selector": "TS"
+    },
+    {
+      "id": "SE__GP__top8utility",
+      "sources": [
+        "S",
+        "E"
+      ],
+      "predictor": "GP",
+      "selector": "top8utility"
+    },
+    {
+      "id": "SE__XGB_bootstrap16__greedy",
+      "sources": [
+        "S",
+        "E"
+      ],
+      "predictor": "XGB_bootstrap16",
+      "selector": "greedy"
+    },
+    {
+      "id": "SE__XGB_bootstrap16__EI",
+      "sources": [
+        "S",
+        "E"
+      ],
+      "predictor": "XGB_bootstrap16",
+      "selector": "EI"
+    },
+    {
+      "id": "SE__XGB_bootstrap16__UCB",
+      "sources": [
+        "S",
+        "E"
+      ],
+      "predictor": "XGB_bootstrap16",
+      "selector": "UCB"
+    },
+    {
+      "id": "SE__XGB_bootstrap16__TS",
+      "sources": [
+        "S",
+        "E"
+      ],
+      "predictor": "XGB_bootstrap16",
+      "selector": "TS"
+    },
+    {
+      "id": "SE__XGB_bootstrap16__top8utility",
+      "sources": [
+        "S",
+        "E"
+      ],
+      "predictor": "XGB_bootstrap16",
+      "selector": "top8utility"
+    },
+    {
+      "id": "CK__GP__greedy",
+      "sources": [
+        "C",
+        "K"
+      ],
+      "predictor": "GP",
+      "selector": "greedy"
+    },
+    {
+      "id": "CK__GP__EI",
+      "sources": [
+        "C",
+        "K"
+      ],
+      "predictor": "GP",
+      "selector": "EI"
+    },
+    {
+      "id": "CK__GP__UCB",
+      "sources": [
+        "C",
+        "K"
+      ],
+      "predictor": "GP",
+      "selector": "UCB"
+    },
+    {
+      "id": "CK__GP__TS",
+      "sources": [
+        "C",
+        "K"
+      ],
+      "predictor": "GP",
+      "selector": "TS"
+    },
+    {
+      "id": "CK__GP__top8utility",
+      "sources": [
+        "C",
+        "K"
+      ],
+      "predictor": "GP",
+      "selector": "top8utility"
+    },
+    {
+      "id": "CK__XGB_bootstrap16__greedy",
+      "sources": [
+        "C",
+        "K"
+      ],
+      "predictor": "XGB_bootstrap16",
+      "selector": "greedy"
+    },
+    {
+      "id": "CK__XGB_bootstrap16__EI",
+      "sources": [
+        "C",
+        "K"
+      ],
+      "predictor": "XGB_bootstrap16",
+      "selector": "EI"
+    },
+    {
+      "id": "CK__XGB_bootstrap16__UCB",
+      "sources": [
+        "C",
+        "K"
+      ],
+      "predictor": "XGB_bootstrap16",
+      "selector": "UCB"
+    },
+    {
+      "id": "CK__XGB_bootstrap16__TS",
+      "sources": [
+        "C",
+        "K"
+      ],
+      "predictor": "XGB_bootstrap16",
+      "selector": "TS"
+    },
+    {
+      "id": "CK__XGB_bootstrap16__top8utility",
+      "sources": [
+        "C",
+        "K"
+      ],
+      "predictor": "XGB_bootstrap16",
+      "selector": "top8utility"
+    },
+    {
+      "id": "CE__GP__greedy",
+      "sources": [
+        "C",
+        "E"
+      ],
+      "predictor": "GP",
+      "selector": "greedy"
+    },
+    {
+      "id": "CE__GP__EI",
+      "sources": [
+        "C",
+        "E"
+      ],
+      "predictor": "GP",
+      "selector": "EI"
+    },
+    {
+      "id": "CE__GP__UCB",
+      "sources": [
+        "C",
+        "E"
+      ],
+      "predictor": "GP",
+      "selector": "UCB"
+    },
+    {
+      "id": "CE__GP__TS",
+      "sources": [
+        "C",
+        "E"
+      ],
+      "predictor": "GP",
+      "selector": "TS"
+    },
+    {
+      "id": "CE__GP__top8utility",
+      "sources": [
+        "C",
+        "E"
+      ],
+      "predictor": "GP",
+      "selector": "top8utility"
+    },
+    {
+      "id": "CE__XGB_bootstrap16__greedy",
+      "sources": [
+        "C",
+        "E"
+      ],
+      "predictor": "XGB_bootstrap16",
+      "selector": "greedy"
+    },
+    {
+      "id": "CE__XGB_bootstrap16__EI",
+      "sources": [
+        "C",
+        "E"
+      ],
+      "predictor": "XGB_bootstrap16",
+      "selector": "EI"
+    },
+    {
+      "id": "CE__XGB_bootstrap16__UCB",
+      "sources": [
+        "C",
+        "E"
+      ],
+      "predictor": "XGB_bootstrap16",
+      "selector": "UCB"
+    },
+    {
+      "id": "CE__XGB_bootstrap16__TS",
+      "sources": [
+        "C",
+        "E"
+      ],
+      "predictor": "XGB_bootstrap16",
+      "selector": "TS"
+    },
+    {
+      "id": "CE__XGB_bootstrap16__top8utility",
+      "sources": [
+        "C",
+        "E"
+      ],
+      "predictor": "XGB_bootstrap16",
+      "selector": "top8utility"
+    },
+    {
+      "id": "KE__GP__greedy",
+      "sources": [
+        "K",
+        "E"
+      ],
+      "predictor": "GP",
+      "selector": "greedy"
+    },
+    {
+      "id": "KE__GP__EI",
+      "sources": [
+        "K",
+        "E"
+      ],
+      "predictor": "GP",
+      "selector": "EI"
+    },
+    {
+      "id": "KE__GP__UCB",
+      "sources": [
+        "K",
+        "E"
+      ],
+      "predictor": "GP",
+      "selector": "UCB"
+    },
+    {
+      "id": "KE__GP__TS",
+      "sources": [
+        "K",
+        "E"
+      ],
+      "predictor": "GP",
+      "selector": "TS"
+    },
+    {
+      "id": "KE__GP__top8utility",
+      "sources": [
+        "K",
+        "E"
+      ],
+      "predictor": "GP",
+      "selector": "top8utility"
+    },
+    {
+      "id": "KE__XGB_bootstrap16__greedy",
+      "sources": [
+        "K",
+        "E"
+      ],
+      "predictor": "XGB_bootstrap16",
+      "selector": "greedy"
+    },
+    {
+      "id": "KE__XGB_bootstrap16__EI",
+      "sources": [
+        "K",
+        "E"
+      ],
+      "predictor": "XGB_bootstrap16",
+      "selector": "EI"
+    },
+    {
+      "id": "KE__XGB_bootstrap16__UCB",
+      "sources": [
+        "K",
+        "E"
+      ],
+      "predictor": "XGB_bootstrap16",
+      "selector": "UCB"
+    },
+    {
+      "id": "KE__XGB_bootstrap16__TS",
+      "sources": [
+        "K",
+        "E"
+      ],
+      "predictor": "XGB_bootstrap16",
+      "selector": "TS"
+    },
+    {
+      "id": "KE__XGB_bootstrap16__top8utility",
+      "sources": [
+        "K",
+        "E"
+      ],
+      "predictor": "XGB_bootstrap16",
+      "selector": "top8utility"
+    },
+    {
+      "id": "SCK__GP__greedy",
+      "sources": [
+        "S",
+        "C",
+        "K"
+      ],
+      "predictor": "GP",
+      "selector": "greedy"
+    },
+    {
+      "id": "SCK__GP__EI",
+      "sources": [
+        "S",
+        "C",
+        "K"
+      ],
+      "predictor": "GP",
+      "selector": "EI"
+    },
+    {
+      "id": "SCK__GP__UCB",
+      "sources": [
+        "S",
+        "C",
+        "K"
+      ],
+      "predictor": "GP",
+      "selector": "UCB"
+    },
+    {
+      "id": "SCK__GP__TS",
+      "sources": [
+        "S",
+        "C",
+        "K"
+      ],
+      "predictor": "GP",
+      "selector": "TS"
+    },
+    {
+      "id": "SCK__GP__top8utility",
+      "sources": [
+        "S",
+        "C",
+        "K"
+      ],
+      "predictor": "GP",
+      "selector": "top8utility"
+    },
+    {
+      "id": "SCK__XGB_bootstrap16__greedy",
+      "sources": [
+        "S",
+        "C",
+        "K"
+      ],
+      "predictor": "XGB_bootstrap16",
+      "selector": "greedy"
+    },
+    {
+      "id": "SCK__XGB_bootstrap16__EI",
+      "sources": [
+        "S",
+        "C",
+        "K"
+      ],
+      "predictor": "XGB_bootstrap16",
+      "selector": "EI"
+    },
+    {
+      "id": "SCK__XGB_bootstrap16__UCB",
+      "sources": [
+        "S",
+        "C",
+        "K"
+      ],
+      "predictor": "XGB_bootstrap16",
+      "selector": "UCB"
+    },
+    {
+      "id": "SCK__XGB_bootstrap16__TS",
+      "sources": [
+        "S",
+        "C",
+        "K"
+      ],
+      "predictor": "XGB_bootstrap16",
+      "selector": "TS"
+    },
+    {
+      "id": "SCK__XGB_bootstrap16__top8utility",
+      "sources": [
+        "S",
+        "C",
+        "K"
+      ],
+      "predictor": "XGB_bootstrap16",
+      "selector": "top8utility"
+    },
+    {
+      "id": "SCE__GP__greedy",
+      "sources": [
+        "S",
+        "C",
+        "E"
+      ],
+      "predictor": "GP",
+      "selector": "greedy"
+    },
+    {
+      "id": "SCE__GP__EI",
+      "sources": [
+        "S",
+        "C",
+        "E"
+      ],
+      "predictor": "GP",
+      "selector": "EI"
+    },
+    {
+      "id": "SCE__GP__UCB",
+      "sources": [
+        "S",
+        "C",
+        "E"
+      ],
+      "predictor": "GP",
+      "selector": "UCB"
+    },
+    {
+      "id": "SCE__GP__TS",
+      "sources": [
+        "S",
+        "C",
+        "E"
+      ],
+      "predictor": "GP",
+      "selector": "TS"
+    },
+    {
+      "id": "SCE__GP__top8utility",
+      "sources": [
+        "S",
+        "C",
+        "E"
+      ],
+      "predictor": "GP",
+      "selector": "top8utility"
+    },
+    {
+      "id": "SCE__XGB_bootstrap16__greedy",
+      "sources": [
+        "S",
+        "C",
+        "E"
+      ],
+      "predictor": "XGB_bootstrap16",
+      "selector": "greedy"
+    },
+    {
+      "id": "SCE__XGB_bootstrap16__EI",
+      "sources": [
+        "S",
+        "C",
+        "E"
+      ],
+      "predictor": "XGB_bootstrap16",
+      "selector": "EI"
+    },
+    {
+      "id": "SCE__XGB_bootstrap16__UCB",
+      "sources": [
+        "S",
+        "C",
+        "E"
+      ],
+      "predictor": "XGB_bootstrap16",
+      "selector": "UCB"
+    },
+    {
+      "id": "SCE__XGB_bootstrap16__TS",
+      "sources": [
+        "S",
+        "C",
+        "E"
+      ],
+      "predictor": "XGB_bootstrap16",
+      "selector": "TS"
+    },
+    {
+      "id": "SCE__XGB_bootstrap16__top8utility",
+      "sources": [
+        "S",
+        "C",
+        "E"
+      ],
+      "predictor": "XGB_bootstrap16",
+      "selector": "top8utility"
+    },
+    {
+      "id": "SKE__GP__greedy",
+      "sources": [
+        "S",
+        "K",
+        "E"
+      ],
+      "predictor": "GP",
+      "selector": "greedy"
+    },
+    {
+      "id": "SKE__GP__EI",
+      "sources": [
+        "S",
+        "K",
+        "E"
+      ],
+      "predictor": "GP",
+      "selector": "EI"
+    },
+    {
+      "id": "SKE__GP__UCB",
+      "sources": [
+        "S",
+        "K",
+        "E"
+      ],
+      "predictor": "GP",
+      "selector": "UCB"
+    },
+    {
+      "id": "SKE__GP__TS",
+      "sources": [
+        "S",
+        "K",
+        "E"
+      ],
+      "predictor": "GP",
+      "selector": "TS"
+    },
+    {
+      "id": "SKE__GP__top8utility",
+      "sources": [
+        "S",
+        "K",
+        "E"
+      ],
+      "predictor": "GP",
+      "selector": "top8utility"
+    },
+    {
+      "id": "SKE__XGB_bootstrap16__greedy",
+      "sources": [
+        "S",
+        "K",
+        "E"
+      ],
+      "predictor": "XGB_bootstrap16",
+      "selector": "greedy"
+    },
+    {
+      "id": "SKE__XGB_bootstrap16__EI",
+      "sources": [
+        "S",
+        "K",
+        "E"
+      ],
+      "predictor": "XGB_bootstrap16",
+      "selector": "EI"
+    },
+    {
+      "id": "SKE__XGB_bootstrap16__UCB",
+      "sources": [
+        "S",
+        "K",
+        "E"
+      ],
+      "predictor": "XGB_bootstrap16",
+      "selector": "UCB"
+    },
+    {
+      "id": "SKE__XGB_bootstrap16__TS",
+      "sources": [
+        "S",
+        "K",
+        "E"
+      ],
+      "predictor": "XGB_bootstrap16",
+      "selector": "TS"
+    },
+    {
+      "id": "SKE__XGB_bootstrap16__top8utility",
+      "sources": [
+        "S",
+        "K",
+        "E"
+      ],
+      "predictor": "XGB_bootstrap16",
+      "selector": "top8utility"
+    },
+    {
+      "id": "CKE__GP__greedy",
+      "sources": [
+        "C",
+        "K",
+        "E"
+      ],
+      "predictor": "GP",
+      "selector": "greedy"
+    },
+    {
+      "id": "CKE__GP__EI",
+      "sources": [
+        "C",
+        "K",
+        "E"
+      ],
+      "predictor": "GP",
+      "selector": "EI"
+    },
+    {
+      "id": "CKE__GP__UCB",
+      "sources": [
+        "C",
+        "K",
+        "E"
+      ],
+      "predictor": "GP",
+      "selector": "UCB"
+    },
+    {
+      "id": "CKE__GP__TS",
+      "sources": [
+        "C",
+        "K",
+        "E"
+      ],
+      "predictor": "GP",
+      "selector": "TS"
+    },
+    {
+      "id": "CKE__GP__top8utility",
+      "sources": [
+        "C",
+        "K",
+        "E"
+      ],
+      "predictor": "GP",
+      "selector": "top8utility"
+    },
+    {
+      "id": "CKE__XGB_bootstrap16__greedy",
+      "sources": [
+        "C",
+        "K",
+        "E"
+      ],
+      "predictor": "XGB_bootstrap16",
+      "selector": "greedy"
+    },
+    {
+      "id": "CKE__XGB_bootstrap16__EI",
+      "sources": [
+        "C",
+        "K",
+        "E"
+      ],
+      "predictor": "XGB_bootstrap16",
+      "selector": "EI"
+    },
+    {
+      "id": "CKE__XGB_bootstrap16__UCB",
+      "sources": [
+        "C",
+        "K",
+        "E"
+      ],
+      "predictor": "XGB_bootstrap16",
+      "selector": "UCB"
+    },
+    {
+      "id": "CKE__XGB_bootstrap16__TS",
+      "sources": [
+        "C",
+        "K",
+        "E"
+      ],
+      "predictor": "XGB_bootstrap16",
+      "selector": "TS"
+    },
+    {
+      "id": "CKE__XGB_bootstrap16__top8utility",
+      "sources": [
+        "C",
+        "K",
+        "E"
+      ],
+      "predictor": "XGB_bootstrap16",
+      "selector": "top8utility"
+    },
+    {
+      "id": "SCKE__GP__greedy",
+      "sources": [
+        "S",
+        "C",
+        "K",
+        "E"
+      ],
+      "predictor": "GP",
+      "selector": "greedy"
+    },
+    {
+      "id": "SCKE__GP__EI",
+      "sources": [
+        "S",
+        "C",
+        "K",
+        "E"
+      ],
+      "predictor": "GP",
+      "selector": "EI"
+    },
+    {
+      "id": "SCKE__GP__UCB",
+      "sources": [
+        "S",
+        "C",
+        "K",
+        "E"
+      ],
+      "predictor": "GP",
+      "selector": "UCB"
+    },
+    {
+      "id": "SCKE__GP__TS",
+      "sources": [
+        "S",
+        "C",
+        "K",
+        "E"
+      ],
+      "predictor": "GP",
+      "selector": "TS"
+    },
+    {
+      "id": "SCKE__GP__top8utility",
+      "sources": [
+        "S",
+        "C",
+        "K",
+        "E"
+      ],
+      "predictor": "GP",
+      "selector": "top8utility"
+    },
+    {
+      "id": "SCKE__XGB_bootstrap16__greedy",
+      "sources": [
+        "S",
+        "C",
+        "K",
+        "E"
+      ],
+      "predictor": "XGB_bootstrap16",
+      "selector": "greedy"
+    },
+    {
+      "id": "SCKE__XGB_bootstrap16__EI",
+      "sources": [
+        "S",
+        "C",
+        "K",
+        "E"
+      ],
+      "predictor": "XGB_bootstrap16",
+      "selector": "EI"
+    },
+    {
+      "id": "SCKE__XGB_bootstrap16__UCB",
+      "sources": [
+        "S",
+        "C",
+        "K",
+        "E"
+      ],
+      "predictor": "XGB_bootstrap16",
+      "selector": "UCB"
+    },
+    {
+      "id": "SCKE__XGB_bootstrap16__TS",
+      "sources": [
+        "S",
+        "C",
+        "K",
+        "E"
+      ],
+      "predictor": "XGB_bootstrap16",
+      "selector": "TS"
+    },
+    {
+      "id": "SCKE__XGB_bootstrap16__top8utility",
+      "sources": [
+        "S",
+        "C",
+        "K",
+        "E"
+      ],
+      "predictor": "XGB_bootstrap16",
+      "selector": "top8utility"
+    }
+  ],
+  "arms": [
+    "random",
+    "S__GP__greedy",
+    "S__GP__EI",
+    "S__GP__UCB",
+    "S__GP__TS",
+    "S__GP__top8utility",
+    "S__XGB_bootstrap16__greedy",
+    "S__XGB_bootstrap16__EI",
+    "S__XGB_bootstrap16__UCB",
+    "S__XGB_bootstrap16__TS",
+    "S__XGB_bootstrap16__top8utility",
+    "C__GP__greedy",
+    "C__GP__EI",
+    "C__GP__UCB",
+    "C__GP__TS",
+    "C__GP__top8utility",
+    "C__XGB_bootstrap16__greedy",
+    "C__XGB_bootstrap16__EI",
+    "C__XGB_bootstrap16__UCB",
+    "C__XGB_bootstrap16__TS",
+    "C__XGB_bootstrap16__top8utility",
+    "K__GP__greedy",
+    "K__GP__EI",
+    "K__GP__UCB",
+    "K__GP__TS",
+    "K__GP__top8utility",
+    "K__XGB_bootstrap16__greedy",
+    "K__XGB_bootstrap16__EI",
+    "K__XGB_bootstrap16__UCB",
+    "K__XGB_bootstrap16__TS",
+    "K__XGB_bootstrap16__top8utility",
+    "E__GP__greedy",
+    "E__GP__EI",
+    "E__GP__UCB",
+    "E__GP__TS",
+    "E__GP__top8utility",
+    "E__XGB_bootstrap16__greedy",
+    "E__XGB_bootstrap16__EI",
+    "E__XGB_bootstrap16__UCB",
+    "E__XGB_bootstrap16__TS",
+    "E__XGB_bootstrap16__top8utility",
+    "SC__GP__greedy",
+    "SC__GP__EI",
+    "SC__GP__UCB",
+    "SC__GP__TS",
+    "SC__GP__top8utility",
+    "SC__XGB_bootstrap16__greedy",
+    "SC__XGB_bootstrap16__EI",
+    "SC__XGB_bootstrap16__UCB",
+    "SC__XGB_bootstrap16__TS",
+    "SC__XGB_bootstrap16__top8utility",
+    "SK__GP__greedy",
+    "SK__GP__EI",
+    "SK__GP__UCB",
+    "SK__GP__TS",
+    "SK__GP__top8utility",
+    "SK__XGB_bootstrap16__greedy",
+    "SK__XGB_bootstrap16__EI",
+    "SK__XGB_bootstrap16__UCB",
+    "SK__XGB_bootstrap16__TS",
+    "SK__XGB_bootstrap16__top8utility",
+    "SE__GP__greedy",
+    "SE__GP__EI",
+    "SE__GP__UCB",
+    "SE__GP__TS",
+    "SE__GP__top8utility",
+    "SE__XGB_bootstrap16__greedy",
+    "SE__XGB_bootstrap16__EI",
+    "SE__XGB_bootstrap16__UCB",
+    "SE__XGB_bootstrap16__TS",
+    "SE__XGB_bootstrap16__top8utility",
+    "CK__GP__greedy",
+    "CK__GP__EI",
+    "CK__GP__UCB",
+    "CK__GP__TS",
+    "CK__GP__top8utility",
+    "CK__XGB_bootstrap16__greedy",
+    "CK__XGB_bootstrap16__EI",
+    "CK__XGB_bootstrap16__UCB",
+    "CK__XGB_bootstrap16__TS",
+    "CK__XGB_bootstrap16__top8utility",
+    "CE__GP__greedy",
+    "CE__GP__EI",
+    "CE__GP__UCB",
+    "CE__GP__TS",
+    "CE__GP__top8utility",
+    "CE__XGB_bootstrap16__greedy",
+    "CE__XGB_bootstrap16__EI",
+    "CE__XGB_bootstrap16__UCB",
+    "CE__XGB_bootstrap16__TS",
+    "CE__XGB_bootstrap16__top8utility",
+    "KE__GP__greedy",
+    "KE__GP__EI",
+    "KE__GP__UCB",
+    "KE__GP__TS",
+    "KE__GP__top8utility",
+    "KE__XGB_bootstrap16__greedy",
+    "KE__XGB_bootstrap16__EI",
+    "KE__XGB_bootstrap16__UCB",
+    "KE__XGB_bootstrap16__TS",
+    "KE__XGB_bootstrap16__top8utility",
+    "SCK__GP__greedy",
+    "SCK__GP__EI",
+    "SCK__GP__UCB",
+    "SCK__GP__TS",
+    "SCK__GP__top8utility",
+    "SCK__XGB_bootstrap16__greedy",
+    "SCK__XGB_bootstrap16__EI",
+    "SCK__XGB_bootstrap16__UCB",
+    "SCK__XGB_bootstrap16__TS",
+    "SCK__XGB_bootstrap16__top8utility",
+    "SCE__GP__greedy",
+    "SCE__GP__EI",
+    "SCE__GP__UCB",
+    "SCE__GP__TS",
+    "SCE__GP__top8utility",
+    "SCE__XGB_bootstrap16__greedy",
+    "SCE__XGB_bootstrap16__EI",
+    "SCE__XGB_bootstrap16__UCB",
+    "SCE__XGB_bootstrap16__TS",
+    "SCE__XGB_bootstrap16__top8utility",
+    "SKE__GP__greedy",
+    "SKE__GP__EI",
+    "SKE__GP__UCB",
+    "SKE__GP__TS",
+    "SKE__GP__top8utility",
+    "SKE__XGB_bootstrap16__greedy",
+    "SKE__XGB_bootstrap16__EI",
+    "SKE__XGB_bootstrap16__UCB",
+    "SKE__XGB_bootstrap16__TS",
+    "SKE__XGB_bootstrap16__top8utility",
+    "CKE__GP__greedy",
+    "CKE__GP__EI",
+    "CKE__GP__UCB",
+    "CKE__GP__TS",
+    "CKE__GP__top8utility",
+    "CKE__XGB_bootstrap16__greedy",
+    "CKE__XGB_bootstrap16__EI",
+    "CKE__XGB_bootstrap16__UCB",
+    "CKE__XGB_bootstrap16__TS",
+    "CKE__XGB_bootstrap16__top8utility",
+    "SCKE__GP__greedy",
+    "SCKE__GP__EI",
+    "SCKE__GP__UCB",
+    "SCKE__GP__TS",
+    "SCKE__GP__top8utility",
+    "SCKE__XGB_bootstrap16__greedy",
+    "SCKE__XGB_bootstrap16__EI",
+    "SCKE__XGB_bootstrap16__UCB",
+    "SCKE__XGB_bootstrap16__TS",
+    "SCKE__XGB_bootstrap16__top8utility"
+  ],
+  "source_definitions": {
+    "S": "Fixed ESM2 320 dimensions; existing sequence-only embeddings",
+    "C": "Fixed RDKit chemistry 2058 dimensions",
+    "K": "Fixed accepted-structure 36 nearest-heavy distance/contact-fraction features",
+    "E": "Two direct peptide C versus receptor A/B NonbondedForce cross-interaction components: Coulomb and LJ, kJ/mol; all H, actual Amber serialized parameters/exceptions, NoCutoff. No GBSA, restraints, entropy or solvent binding free energy. Same frozen accepted poses."
+  },
+  "initial": 8,
+  "batch": 8,
+  "rounds": 3,
+  "total_measurements": 32,
+  "predictors": {
+    "GP": {
+      "kernel": "equal-weight additive RBF over selected source blocks",
+      "length_grid": [
+        0.5,
+        1.0,
+        2.0
+      ],
+      "noise_variance_standardized": 0.01,
+      "jitter": 1e-08,
+      "tuning": "visible-only four-fold CV MAE; fixed shared folds per seed/round; first-grid tie"
+    },
+    "XGB_bootstrap16": {
+      "n_estimators": 100,
+      "depth_grid": [
+        1,
+        2,
+        3
+      ],
+      "learning_rate": 0.05,
+      "bootstrap_members": 16,
+      "tuning": "same visible-only four-fold CV MAE depth, then16 n-row bootstrap resamples; no OOB selection",
+      "covariance": "sample covariance of16 bootstrap predictions, uncalibrated Gaussian approximation for common acquisitions; not calibrated Bayesian posterior",
+      "target_scaling": "per fit visible mean/std; same fixed XGB recipe"
+    }
+  },
+  "scaling": "each source separately: visible-training mean/std, constant sd<1e-8→1, divide by sqrt(source dimension); GP averages source kernels; XGB concatenates blocks divided sqrt(number sources)",
+  "selectors": {
+    "greedy": "top8 posterior means; original candidate order breaks ties",
+    "EI": "analytic marginal EI above max visible y, xi0; sequential8 with Kriging-believer covariance-only conditioning at mean; denominator latent variance+.01*visible_y_variance",
+    "UCB": "mu+2sigma; same mean-fantasy covariance-only batch conditioning as EI",
+    "TS": "one joint Gaussian function draw, then top8; GP posterior or Gaussian bootstrap approximation; no label reveal inside batch",
+    "top8utility": "256 joint Gaussian fantasy functions; greedily maximize marginal expected increase in SUM of largest8 among observed y and selected fantasy batch; paired same draws within selection; no new labels until all8 chosen"
+  },
+  "seed_derivation": "model bootstrap and acquisition seed=initial seed+1000+round_index; identical across masks/selectors for pairing; repeated fitting does not reuse unseen labels",
+  "uncertainty": "ALL UNCERTAINTY UNCALIBRATED; GP model-dependent, XGB finite-bootstrap Gaussian approximation",
+  "primary_metric": "tie-aware true global top8 hits after32 reveals, maximize pIC50; original threshold/boundary counting from prior replay",
+  "secondary": [
+    "hits after8/16/24/32",
+    "best observed pIC50",
+    "paired start differences for source ablations at matched model+selector",
+    "fit/runtime cost",
+    "selection overlap"
+  ],
+  "shortlist_rule": "Exploratory top3 by descending mean top8hits@32; ties lower paired SD then fewer source blocks then lexicographic id. Report all150 and random. No confirmatory success from development ranking; same observed cohort and seeds used previously.",
+  "chronology": "Prospective repetition-only extension after inspecting the original20 development results. Not a new dataset or blinded validation.",
+  "predeclared_report_comparisons": [
+    [
+      "SCK__GP__greedy",
+      "C__XGB_bootstrap16__top8utility"
+    ],
+    [
+      "SCK__GP__greedy",
+      "random"
+    ],
+    [
+      "SCK__GP__greedy",
+      "SC__GP__greedy"
+    ],
+    [
+      "CE__XGB_bootstrap16__greedy",
+      "C__XGB_bootstrap16__greedy"
+    ]
+  ],
+  "original_result_SHA256": "29ee6af2e046ec43c42f78c1362be6e41e555c200283c6f7d81e99208a49676e",
+  "limits": [
+    "DEVELOPMENT ONLY: all160 assay labels already exposed in earlier work",
+    "Prepared template-informed structures, not validated blind docking",
+    "E is an interaction proxy, not binding free energy or affinity",
+    "Source availability fixed for all candidates; this is source/model/selector study, not evaluation-layer allocation or prospective wetlab validation",
+    "Original negative/inconclusive reports immutable; no changed old thresholds",
+    "No new MD/docking/assay/pLM download; cached pLM representations reused",
+    "200 random starts on the same exposed finite cohort, not 200 biological replicates.",
+    "Original 20 starts reused; 180 added after original results were seen."
+  ],
+  "unredacted_private_protocol_sha256": "363a2b32dd09e938a028c462cd7b3dc9337550a77efdecfcfed5ed34e3a56fa7"
+}

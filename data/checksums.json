@@ -1,0 +1,11 @@
+{
+  "all151-methods.csv": "a1fd3c5ee1b255cdf9efc9123c1059af1dbab69d4173a7249c43ce3e754bf4b4",
+  "all280-matched-source-additions.csv": "f046c0d0b09d3c14b647389a55cb06bfb3dadcef9d4eb62fa49fd5e5aa55de8c",
+  "cohort.json": "5436c3f25224b7f881159a04b3a4fffc7c31deecfef0f7eee856caee56740968",
+  "development-labels.json": "f6d7e6aa4c5145aa8a65ca9f2906b6efc165477a9b287795f6d6813374467f10",
+  "peptides160.csv": "51272a8fff7be8dde20362059da1ba35dcacced9fb79c22580724e0ec755c60f",
+  "predeclared-comparisons.csv": "79eb943321547ecdf7249eeb93314192fb024d46504e518e2dface5dea0730b0",
+  "protocol.json": "074949c4bd2f63f64c12ff984e46350c67dc1a7d21038f14e8d27fc408b87d5d",
+  "sequence-chemistry.npz": "4ac8c52476451982f2d08022a3ec3004c6f8b64e43e6df77a64f9946f00e135a",
+  "structural-energy.json": "adff073949d9a7bfb0e227c8b36b91715147fb02e949cca608722d6d724e34ff"
+}

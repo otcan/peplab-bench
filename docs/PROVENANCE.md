@@ -1,0 +1,13 @@
+# Evidence and chronology
+
+The frozen 200-start numerical result SHA256 is `e4d8b0fb877c9c2db398b97eef660e25aa7aeff12580b9dca3729a650e1846ca`. The original20 result SHA256 is `29ee6af2e046ec43c42f78c1362be6e41e555c200283c6f7d81e99208a49676e`. Original outputs are retained unchanged. Tables and full-precision result files, rather than rounded manuscript values, are authoritative.
+
+Preparation proceeded through several bounded failed attempts. Initial blind Vina recovery did not pass the fixed native-recovery gates. The later structural features came from a new template-informed anchored preparation protocol, not a successful blind-docking benchmark. Subsequent hydrogen-shape and receptor-residue hydrogen repairs were prospectively versioned, and accepted structure bytes were retained. The final cohort combines qualified cached structures from those versions; it is not a newly generated uniform pristine cohort. Chemistry, stereochemistry, constraints, clash, finiteness and movement acceptance checks were retained.
+
+The 160-record structural comparison preceded the original source/model/selector screen. The 200-start extension added repetition precision on the same already inspected data; it did not introduce a new target or independent assay set. Original failed and negative computational evidence is retained privately, and the published account must preserve this history.
+
+All original fitting ran on a managed remote CPU environment (NumPy1.26.4, SciPy1.13.1, XGBoost3.4.1). The original device rental included a GPU, but these model fits were CPU computations. A failed startup produced no fits; the subsequent final attempt completed. Runtime-based rental estimate for both starts was USD0.4064133752, excluding unsettled storage/traffic/provider adjustments. This is not a per-method financial saving or a measured cost-aware discovery benefit.
+
+Public export uses an explicit allowlist. It includes only the 160 development IDs/features/measurements; no reserved40 data, desktop/session state, credentials, billing configuration or private grant-application/personnel records. `docs/numerical-core.json` records original and portable hashes and AST identity of retained numerical functions. The new driver/import adapters are new software and require independent portability qualification before a claim of full fresh reproduction.
+
+The original 180 new selection-journal seals precede the single aggregate evaluation. Cached labels were in a separate process; this is software-flow separation, not proof an external operator could not read files. Broader historical exposure of reserved data is not certified. Do not use these records to claim untouched biological validation.

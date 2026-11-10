@@ -1,0 +1,5 @@
+larger,base,paired_mean_delta_hits,paired_sd,paired_MC_standard_error,wins,ties,losses,starts
+SCK__GP__greedy,C__XGB_bootstrap16__top8utility,0.47,1.5784669109438827,0.11161446566070016,100,46,54,200
+SCK__GP__greedy,random,1.485,1.6864148288230782,0.11924753613543493,142,33,25,200
+SCK__GP__greedy,SC__GP__greedy,0.45,1.3773107581889847,0.09739057769166162,98,53,49,200
+CE__XGB_bootstrap16__greedy,C__XGB_bootstrap16__greedy,0.05,1.0692128321349357,0.07560476441342867,56,93,51,200

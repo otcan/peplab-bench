@@ -1,0 +1,21 @@
+{
+  "creators": [
+    {
+      "name": "Unver, Oğuzcan"
+    }
+  ],
+  "version": "0.1.0",
+  "access_right": "open",
+  "keywords": [
+    "peptide selection",
+    "protein language models",
+    "Bayesian optimization",
+    "reproducibility",
+    "benchmark"
+  ],
+  "related_identifiers": [],
+  "title": "PepLab Bench: reusable source-model-selector peptide replay",
+  "upload_type": "software",
+  "license": "Apache-2.0",
+  "description": "Portable integration contracts and saved-result explorer accompanying a complete 30,200-episode development replay on 160 archived HLA-A*02:01 nine-mers. Original numerical functions are AST-preserved; portable adapters are new and contract-tested. No new independent biological validation. No pretrained weights or third-party runtime binaries bundled."
+}

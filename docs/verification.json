@@ -1,0 +1,14 @@
+{
+  "at_UTC": "2026-11-09T21:35:29.791181+00:00",
+  "status": "ENGINEERING_CHECKS_PASS_RELEASE_CANDIDATE",
+  "tests_passed": 16,
+  "clean_wheel_install": true,
+  "saved_result_viewer_and_hash_verifier": true,
+  "mock_feedback_cycle": true,
+  "global_plan_and_pretruth_barrier_contract": true,
+  "original_numerical_function_AST_parity": true,
+  "new_models_fitted": 0,
+  "new_endpoint_evaluations": 0,
+  "full_fresh_model_portability_replication_completed": false,
+  "upstream_scientific_review_completed": false
+}

@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "Please cite this exact software version, the accompanying study, IEDB and the original assay source. Persistent archive identifiers will be added after publication."
+title: "PepLab Bench: source-model-selector peptide replay"
+type: software
+authors:
+  - family-names: Unver
+    given-names: Oğuzcan
+version: 0.1.0
+license: Apache-2.0
+keywords:
+  - peptide selection
+  - reproducible benchmark
+  - Bayesian optimization
+  - protein language models

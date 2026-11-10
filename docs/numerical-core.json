@@ -1,0 +1,43 @@
+[
+  {
+    "source_name": "baseline_gp.py",
+    "original_sha256": "ff34e0678c513e95a37b9411dbc959258af947b855f689244bad5a68c183420b",
+    "portable_sha256": "f9420b1302678014e3214804e1c5c71c7ad045b8af4aa798119c19d2c1508343",
+    "retained_functions_AST_identical": [
+      "batch",
+      "blocks_scaled",
+      "checktime",
+      "expected_improvement",
+      "fit_gp",
+      "gp",
+      "inner_folds",
+      "kernel",
+      "save",
+      "sha",
+      "stamp",
+      "xgb"
+    ]
+  },
+  {
+    "source_name": "replay.py",
+    "original_sha256": "c4b450d406e72c9d422d8989c7a3cdb0eecfb6b8bd5d55ab11d91db70ca1299b",
+    "portable_sha256": "c54bdabd2c15b88c4e9754dd8df4347f1e9c6e70f6f05aae4d997217718720f8",
+    "retained_functions_AST_identical": [
+      "checktime",
+      "joint_draws",
+      "model",
+      "save",
+      "select",
+      "stamp"
+    ]
+  },
+  {
+    "source_name": "screen_models.py",
+    "original_sha256": "af1ff83a602e263bdf97a17a4ade1bf6f86a4f54c0f8f3d145bacab3e4ec0ace",
+    "portable_sha256": "39f238dc26bde09d3ebc7109147053a14f1ffafc32799955da864b3cacf54679",
+    "retained_functions_AST_identical": [
+      "predict",
+      "transform"
+    ]
+  }
+]

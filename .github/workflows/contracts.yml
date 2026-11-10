@@ -1,0 +1,21 @@
+name: contract-and-saved-result-tests
+on: [push, pull_request]
+permissions:
+  contents: read
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        python: ['3.10', '3.11', '3.12']
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: ${{ matrix.python }}
+      - run: python -m pip install -e .
+      - run: python -m unittest discover -s tests -v
+      - run: peplab-bench verify --data data
+      - run: peplab-bench results --data data --html results.html
+      - run: python examples/custom_predictor.py
+      # No molecular calculation, model fitting, network oracle or paid rental.
