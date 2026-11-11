@@ -1,7 +1,8 @@
 {
   "creators": [
     {
-      "name": "Unver, Oğuzcan"
+      "name": "Unver, Oğuzcan",
+      "affiliation": "Metastate Bio"
     }
   ],
   "version": "0.1.0",
@@ -13,9 +14,15 @@
     "reproducibility",
     "benchmark"
   ],
-  "related_identifiers": [],
+  "related_identifiers": [
+    {
+      "identifier": "10.5281/zenodo.24142178",
+      "relation": "isSupplementTo",
+      "scheme": "doi"
+    }
+  ],
   "title": "PepLab Bench: reusable source-model-selector peptide replay",
   "upload_type": "software",
   "license": "Apache-2.0",
-  "description": "Portable integration contracts and saved-result explorer accompanying a complete 30,200-episode development replay on 160 archived HLA-A*02:01 nine-mers. Original numerical functions are AST-preserved; portable adapters are new and contract-tested. No new independent biological validation. No pretrained weights or third-party runtime binaries bundled."
+  "description": "Portable integration contracts and saved-result explorer accompanying a complete 30,200-episode development replay on 160 archived HLA-A*02:01 nine-mers. Original numerical functions are AST-preserved; portable adapters are contract-tested and a clean noneditable public installation reproduced 12 selected historical episodes (36 contexts), with exact selected identities/order and recovery counts. This is not a full 30,200-episode rerun. No new independent biological validation. No pretrained weights or third-party runtime binaries bundled."
 }

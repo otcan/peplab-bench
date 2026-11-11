@@ -1,10 +1,12 @@
 cff-version: 1.2.0
-message: "Please cite this exact software version, the accompanying study, IEDB and the original assay source. Persistent archive identifiers will be added after publication."
+message: "Please cite this exact software version, the accompanying study, IEDB and the original assay source. Complete evidence: https://doi.org/10.5281/zenodo.24142178."
 title: "PepLab Bench: source-model-selector peptide replay"
 type: software
 authors:
   - family-names: Unver
     given-names: Oğuzcan
+    affiliation: Metastate Bio
+    email: can@metastate.bio
 version: 0.1.0
 license: Apache-2.0
 keywords:
