@@ -25,7 +25,7 @@ peplab-bench results --data data --html results.html
 python -m unittest discover -s tests -v
 ```
 
-Open `results.html` to compare every method. The command reads saved summaries and performs no fitting. Downloadable complete data and software archive links will be added after the reviewed release receives its actual persistent identifiers; no placeholder DOI is a citation.
+Open `results.html` to compare every method. The command reads saved summaries and performs no fitting. The [complete versioned evidence archive](https://doi.org/10.5281/zenodo.24142178) is public on Zenodo: all 30,200 episodes, original selection journals, raw numerical-qualification outputs, accepted structures and serialized systems, cohort-selection provenance and archived source. The full 382,822,111-byte download and all 12 component hashes were verified without authentication on 11 November 2026. See [the release index](docs/EVIDENCE_RELEASE.json).
 
 ## Findings at a glance
 
@@ -35,6 +35,7 @@ Open `results.html` to compare every method. The command reads saved summaries a
 | Chemistry + direct energy / XGB bootstrap / greedy | 2.970 |
 | Chemistry / XGB bootstrap / greedy | **2.920** |
 | Sequence + chemistry / GP / greedy | 2.815 |
+| Sequence + chemistry + contacts + energy / GP / greedy | **2.765** |
 | Chemistry / XGB bootstrap / top-8 utility | 2.795 |
 | Random | 1.780 |
 
@@ -42,9 +43,7 @@ The observed leader recovered 1.485 more hits than random and 0.345 more than th
 
 The study was extended from 20 to 200 starts after inspecting the original results. The original 3,020 episodes remain unchanged; 27,180 were added. Standard deviations describe initialization variability and MCSE describes precision over random starts on this same dataset. These are not 200 independent biological experiments.
 
-![Mean performance, recall and enrichment scales](figures/01-performance-scales.png)
-
-![Discovery curves at equal assay-reveal budgets](figures/03-discovery-curves.png)
+The revised four-page balanced atlas in the [evidence release](https://doi.org/10.5281/zenodo.24142178) shows the strongest cheap comparator alongside the +0.450 matched contact gain, +0.345 descriptive best-versus-best difference and −0.500 adverse energy addition. Earlier figures remain archived in this repository as historical presentation evidence.
 
 ## Three independent axes
 
@@ -72,9 +71,15 @@ peplab-bench replay --data data --sources SCK --predictor GP \
   --selector greedy --seed 2026110420 --out my-new-episode
 ```
 
-The numerical functions retain the original ASTs; the portable wrapper and adapter layer are new. They have contract tests, not a newly completed 30,200-episode portability replication. A new episode never appends to the frozen results. Outputs use exclusive creation and record selections before reveals. Cached values are isolated by software flow, not by an OS security boundary.
+The numerical functions retain the original ASTs; the portable wrapper and adapter layer are new. They have contract tests and the bounded numerical qualification below; the entire 30,200-episode study was not rerun. A new episode never appends to the frozen results. Outputs use exclusive creation and record selections before reveals. Cached values are isolated by software flow, not by an OS security boundary.
 
-To run the complete factorial for one new replication start, use `peplab-bench benchmark --data data --starts 1 --out my-new-suite`. Set `--starts 200` and an explicit `--max-seconds` only when you intend the full workload. This new portable runner seals every planned episode before asking its separate oracle for the full response table, fails closed on an incomplete suite and writes a separate replication table. It does not launch cloud resources or overwrite the archived study. Its orchestration is new and still awaits a full numerical portability replication; the global-barrier contract is tested with mock values.
+To run the complete factorial for one new replication start, use `peplab-bench benchmark --data data --starts 1 --out my-new-suite`. Set `--starts 200` and an explicit `--max-seconds` only when you intend the full workload. This new portable runner seals every planned episode before asking its separate oracle for the full response table, fails closed on an incomplete suite and writes a separate replication table. It does not launch cloud resources or overwrite the archived study. Its full-suite orchestration has a mocked global-barrier contract test. The 12-episode qualification covers the installed episode path, not a fresh full-suite numerical rerun.
+
+## Numerical qualification and complete evidence
+
+A clean, noneditable installation of public commit `29d4f50897b2642a9383a9e28eee61c9716f88bc` reproduced **12 historical episodes and 36 round contexts**, covering both learners, all five selectors and all four source blocks. Selected identities, batch order and final recovery counts matched exactly; historical mean and marginal-SD differences were below the declared 1e-10 tolerance. Full covariance matched a separate-process invocation of the original core; historical full covariance was not recorded. This is a bounded portability qualification, not a rerun of all 30,200 episodes.
+
+The [Zenodo archive](https://doi.org/10.5281/zenodo.24142178) includes `PepLab-numerical-qualification-output.zip`, the qualification scripts/fixtures, the four-page balanced comparison atlas v4, and original 20/additional 180/combined 200 tables. The historical six-figure atlas is retained separately. Evidence publication is complete; final manuscript declarations and journal submission are separate.
 
 ## Scope
 

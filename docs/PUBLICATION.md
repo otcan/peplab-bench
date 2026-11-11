@@ -1,6 +1,6 @@
 # Publication route and status
 
-Status: software and saved development data are public at https://github.com/otcan/peplab-bench (2026-11-10). The initial 66-file tree exactly matches the prepared release. Fresh-clone installation, 16 contract/saved-data tests, data verification and saved-results HTML export passed. No Zenodo record publication or journal submission has been made by this package.
+Status: software and saved development data are public at https://github.com/otcan/peplab-bench (2026-11-10). The initial 66-file tree exactly matches the prepared release. Fresh-clone installation, 16 contract/saved-data tests, data verification and saved-results HTML export passed. The complete evidence dataset is now published at https://doi.org/10.5281/zenodo.24142178; the full unauthenticated download and all component hashes passed verification on 11 November 2026. This is an evidence deposit, not a peer-reviewed article or final preprint submission. No journal submission has been made.
 
 Author: Oğuzcan Unver. Affiliation, corresponding-author details, ORCID, competing interests, funding and author contribution statement must be verified from the author's actual records before submission; no identity or role is invented here.
 
@@ -10,7 +10,7 @@ Author: Oğuzcan Unver. Affiliation, corresponding-author details, ORCID, compet
 2. Dataset: full-precision results, all method/contrast/episode tables, sequence/assay provenance, fixed features, prepared structure hashes, journals and seals, original20 evidence. Cite database/original assay authors and preserve source terms.
 3. Software: versioned GitHub source release, archived with a software DOI. Cite exact version, link to dataset and preprint using actual persistent identifiers. Never invent DOI placeholders in public metadata.
 
-Zenodo supports reserving a DOI before final publication and GitHub-release archiving. Source: https://help.zenodo.org/docs/deposit/describe-records/reserve-doi/ and https://help.zenodo.org/docs/github/ . GitHub, dataset and preprint identifiers will be reconciled before final citation metadata is sealed.
+Zenodo supports reserving a DOI before final publication and GitHub-release archiving. Source: https://help.zenodo.org/docs/deposit/describe-records/reserve-doi/ and https://help.zenodo.org/docs/github/ . Dataset/evidence DOI: https://doi.org/10.5281/zenodo.24142178. It includes archived public source and qualification outputs. A separate final preprint/software-release identifier has not been assigned by this update; do not infer one.
 
 ## Free review and journal route
 
@@ -27,3 +27,9 @@ The earlier paid F1000Research route is superseded. No APC or other publishing f
 Scientific review and author accountability remain necessary for submission. No completed new review is inferred from that handoff. Reconcile the current 200-start manuscript and software package with that review, author verification and the target journal's current requirements. Software contract tests, source parity and data checks are engineering evidence; they do not constitute external peer review.
 
 An additional independent experiment is a proposed future work item, not a condition that silently alters the current study or opens reserved outcomes. Its eligibility/access audit and prospective protocol must precede any confirmation claims.
+
+## Completed qualification and remaining submission work
+
+A clean, noneditable installation of public commit `29d4f50897b2642a9383a9e28eee61c9716f88bc` reproduced **12 historical episodes and 36 round contexts**, covering both learners, all five selectors and all four source blocks. Selected identities, batch order and final recovery counts matched exactly; historical mean and marginal-SD differences were below the declared 1e-10 tolerance. Full covariance matched a separate-process invocation of the original core; historical full covariance was not recorded. This is a bounded portability qualification, not a rerun of all 30,200 episodes.
+
+The full evidence archive is published and independently downloadable without login. It includes raw qualification outputs, original journals, structural systems/coordinates and reserved-response-free provenance. The numerical release and archive-completeness blockers are closed. Remaining manuscript work is factual author declarations, venue eligibility/selection and final submission formatting. No new molecular experiment, positional control or independent cohort is a condition silently added to this scoped benchmark release.

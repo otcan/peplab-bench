@@ -1,0 +1,36 @@
+{
+  "record": "https://zenodo.org/records/24142178",
+  "doi": "10.5281/zenodo.24142178",
+  "type": "dataset_and_reproducibility_evidence",
+  "version": "1.0.0",
+  "file": "PepLab-Bench-complete-evidence-v1.0.0.zip",
+  "bytes": 382822111,
+  "sha256": "86d4267564d1bf47f1b8c7346e248d61a875ca6d55b26e8f72e773d05f8e5be3",
+  "md5": "e1cf26ddb579a1bf8f7586d9ec0806c0",
+  "public_download_verified_date": "2026-11-11",
+  "authentication_used": "none",
+  "all_12_manifest_components_verified": true,
+  "scientific_source_commit": "89a382914f9115c0d68c11a90ef8f34ba50f9abd",
+  "numerically_qualified_install_commit": "29d4f50897b2642a9383a9e28eee61c9716f88bc",
+  "qualification": {
+    "episodes": 12,
+    "round_contexts": 36,
+    "learners": "both",
+    "selectors": "all five",
+    "source_blocks": "all four represented",
+    "selected_id_and_order_match": "exact",
+    "historical_mean_max_abs_error": 3.2862601528904634e-14,
+    "historical_SD_max_abs_error": 3.774758283725532e-15,
+    "tolerance_absolute_relative": 1e-10,
+    "historical_full_covariance_logged": false,
+    "full_study_rerun": false
+  },
+  "original_study": {
+    "development_records": 160,
+    "configurations": 151,
+    "shared_starts": 200,
+    "episodes": 30200
+  },
+  "reserved_measurements_included": false,
+  "peer_review_or_journal_acceptance_claimed": false
+}
