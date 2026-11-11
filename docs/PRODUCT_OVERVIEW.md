@@ -8,12 +8,13 @@ On the saved HLA development study, adding prepared contact features to sequence
 
 The study includes 160 previously exposed HLA-A*02:01 nine-mers, 200 shared starts and 30,200 episodes across 151 configurations. Sequence, chemistry, contacts and direct interaction energies are separate sources. Source/model/selector combinations matter: more sources were not uniformly better.
 
-## Primary audiences
+## Selecting the next experimental batch
 
-- Customers: choose the next experimental batch with a ranked shortlist and inspectable evidence.
-- TÜBİTAK: build and prospectively evaluate cost-aware candidate-and-layer allocation, using the completed integration study as technical feasibility evidence.
-- Partners: contribute target knowledge, data, assays or computational capabilities within a reproducible decision workflow.
-- Model providers: plug in a source or predictor and measure incremental contribution under the same budget and candidate pool.
+Start with a defined candidate library, target, assay objective and budget. Combine the available measurements and representations, compare candidate rankings, then record a selected batch before revealing its returned measurements.
+
+The next development step is cost-aware candidate-and-layer allocation: decide which peptide and which evaluation to purchase next. Its contribution should be evaluated prospectively against fixed policies under a common total budget.
+
+An external source or predictor can be plugged into the same candidate pool and reveal budget to measure its incremental contribution.
 
 ## Available evidence and development direction
 
@@ -21,4 +22,4 @@ The public benchmark contains code, sequences, archived assay values, fixed feat
 
 The observed leader was selected on one development cohort; 200 computational starts are not biological replication. Structures are template-informed; Coulomb/LJ energies are proxies, not binding free energies. No reserved40 measurements are included.
 
-Source: data/all151-methods.csv, data/all280-matched-source-additions.csv and the frozen provenance linked in this repository. Author: Oğuzcan Unver. 10 November 2026.
+Source: data/all151-methods.csv, data/all280-matched-source-additions.csv and the frozen provenance linked in this repository. Author: Oğuzcan Unver. 11 November 2026.

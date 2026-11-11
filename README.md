@@ -2,11 +2,11 @@
 
 ## Better peptide decisions by combining complementary information
 
-**PepLab brings sequence, chemistry and structural information together to help choose the next experimental batch.** This repository is its open evidence and integration package for customers, partners, TÜBİTAK evaluators and model providers.
+**PepLab brings sequence, chemistry and structural information together to help choose the next experimental batch.** This repository contains the code, peptide records, saved comparisons and model integration interfaces.
 
 **A measured example:** with the same GP predictor, greedy selector and 32-measurement-reveal budget, adding contact features to sequence + chemistry increased mean top-eight discoveries from **2.815 to 3.265 — 16% more** in the saved HLA development study. Source combinations matter; adding every source was not uniformly better.
 
-Read the [customer and partner overview](docs/PepLab-customer-and-partner-overview.pdf) or the [product and evidence summary](docs/PRODUCT_OVERVIEW.md). Cost-aware candidate/layer allocation is the next product-development step; this benchmark provides retrospective source-complementarity evidence.
+Read the [PepLab overview](docs/PepLab-overview.pdf) or the [workflow and evidence summary](docs/PRODUCT_OVERVIEW.md). Cost-aware candidate/layer allocation is the next development step; this benchmark provides retrospective source-complementarity evidence.
 
 **Which information source helps which model and selection rule?** A transparent peptide-selection benchmark with plug-in interfaces and a complete saved development study.
 
