@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-message: "Please cite this exact software version, the accompanying study, IEDB and the original assay source. Complete evidence: https://doi.org/10.5281/zenodo.24142178."
+message: "Please cite this exact software version, the accompanying study, IEDB and the original assay source. Paper: https://doi.org/10.5281/zenodo.24143298. Complete evidence: https://doi.org/10.5281/zenodo.24142178."
 title: "PepLab Bench: source-model-selector peptide replay"
 type: software
 authors:

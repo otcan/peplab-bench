@@ -19,6 +19,11 @@
       "identifier": "10.5281/zenodo.24142178",
       "relation": "isSupplementTo",
       "scheme": "doi"
+    },
+    {
+      "identifier": "10.5281/zenodo.24143298",
+      "relation": "isSupplementTo",
+      "scheme": "doi"
     }
   ],
   "title": "PepLab Bench: reusable source-model-selector peptide replay",

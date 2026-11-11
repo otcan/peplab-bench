@@ -1,5 +1,7 @@
 # PepLab Bench
 
+**[Read the paper](https://doi.org/10.5281/zenodo.24143298) · [Complete evidence](https://doi.org/10.5281/zenodo.24142178)**
+
 ## Better peptide decisions by combining complementary information
 
 **PepLab brings sequence, chemistry and structural information together to help choose the next experimental batch.** This repository contains the code, peptide records, saved comparisons and model integration interfaces.
@@ -79,7 +81,7 @@ To run the complete factorial for one new replication start, use `peplab-bench b
 
 A clean, noneditable installation of public commit `29d4f50897b2642a9383a9e28eee61c9716f88bc` reproduced **12 historical episodes and 36 round contexts**, covering both learners, all five selectors and all four source blocks. Selected identities, batch order and final recovery counts matched exactly; historical mean and marginal-SD differences were below the declared 1e-10 tolerance. Full covariance matched a separate-process invocation of the original core; historical full covariance was not recorded. This is a bounded portability qualification, not a rerun of all 30,200 episodes.
 
-The [Zenodo archive](https://doi.org/10.5281/zenodo.24142178) includes `PepLab-numerical-qualification-output.zip`, the qualification scripts/fixtures, the four-page balanced comparison atlas v4, and original 20/additional 180/combined 200 tables. The historical six-figure atlas is retained separately. Evidence publication is complete; final manuscript declarations and journal submission are separate.
+The [Zenodo archive](https://doi.org/10.5281/zenodo.24142178) includes `PepLab-numerical-qualification-output.zip`, the qualification scripts/fixtures, the four-page balanced comparison atlas v4, and original 20/additional 180/combined 200 tables. The historical six-figure atlas is retained separately. The evidence archive and manuscript revision 6.4 are public. Author declarations use Metastate Bio. Journal submission is separate.
 
 ## Scope
 

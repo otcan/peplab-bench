@@ -32,5 +32,18 @@
     "episodes": 30200
   },
   "reserved_measurements_included": false,
-  "peer_review_or_journal_acceptance_claimed": false
+  "peer_review_or_journal_acceptance_claimed": false,
+  "preprint": {
+    "record": "https://zenodo.org/records/24143298",
+    "doi": "10.5281/zenodo.24143298",
+    "revision": "6.4",
+    "file": "PepLab-HLA-manuscript-v6.4.pdf",
+    "bytes": 1013443,
+    "sha256": "ef64ac9f472a420985100987b7ba9577336005720cd13e5499a35b75e137c9b4",
+    "public_download_verified_date": "2026-11-11",
+    "authentication_used": "none",
+    "author": "Oğuzcan Unver",
+    "affiliation": "Metastate Bio",
+    "license": "CC-BY-4.0"
+  }
 }
