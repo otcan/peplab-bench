@@ -12,14 +12,18 @@ Author: Oğuzcan Unver. Affiliation, corresponding-author details, ORCID, compet
 
 Zenodo supports reserving a DOI before final publication and GitHub-release archiving. Source: https://help.zenodo.org/docs/deposit/describe-records/reserve-doi/ and https://help.zenodo.org/docs/github/ . GitHub, dataset and preprint identifiers will be reconciled before final citation metadata is sealed.
 
-## Journal route
+## Free review and journal route
 
-Primary target: F1000Research Software Tool Article, emphasizing reusable source/model/selector contracts, transparent data access and a worked example. Prepare a tool-oriented manuscript, installation and reproducibility instructions, archived source, data availability and complete AI-assistance disclosure. Its initial publication precedes open peer review; describe status accordingly. Guidelines: https://f1000research.com/for-authors/article-guidelines/software-tool-articles ; model: https://www.f1000.com/resources-for-researchers/how-to-publish-your-research/f1000-publishing-model/ . No article-processing fee has been paid or authorized here.
+The planned route is a Zenodo preprint with linked, versioned code/data, evaluation by **PCI Mathematical and Computational Biology**, and transfer to **Peer Community Journal** after a positive PCI recommendation. The evaluation and journal route are free for authors and readers. A recommendation or journal acceptance has not been obtained, and no PCI submission has been made by this workflow.
 
-Bioinformatics Advances is a later option if substantial methodological novelty or independent confirmation supports it. Its author rules require a sufficiently novel contribution and restrict LLM drafting. The present AI-assisted manuscript must not be submitted as if it were written under a conflicting policy. Source: https://academic.oup.com/bioinformaticsadvances/pages/author-guidelines .
+Before submission, resolve the author declarations and PCI eligibility. The official author guide and code of conduct exclude financial conflicts of interest, including salary or shares in an entity whose economic interests may be affected by the article. This cannot be replaced with a blanket no-conflict assertion. Any commercial relationship must be assessed under the actual policy before submission. The journal route is conditional on eligibility and recommendation; no parallel journal submission is planned.
+
+Official requirements: https://mcb.peercommunityin.org/help/guide_for_authors and https://mcb.peercommunityin.org/about/ethics . PCI requires numbered lines, data/code availability with permanent identifiers, an AI-assistance disclosure, verified author/funding/conflict declarations and 5–10 suitable handling-recommender suggestions. Source-code-generated plots of archived measurements are distinguished from generative illustrations. The current preparation copy contains a clear author-declaration block to be resolved before submission.
+
+The earlier paid F1000Research route is superseded. No APC or other publishing fee has been paid. Peer Community Journal transfer follows PCI recommendation; it is not an automatic publication promise. Sources: https://peercommunityin.org/submit-a-preprint-to-pci/ and https://peercommunityin.org/pc-journal/ .
 
 ## Scientific and author review
 
-Academic/C15 previously took responsibility for scientific review and submission preparation. No completed new review is inferred from that handoff. Reconcile the current 200-start manuscript and software package with that review, author verification and the target journal's current requirements. Software contract tests, source parity and data checks are engineering evidence; they do not constitute external peer review.
+Scientific review and author accountability remain necessary for submission. No completed new review is inferred from that handoff. Reconcile the current 200-start manuscript and software package with that review, author verification and the target journal's current requirements. Software contract tests, source parity and data checks are engineering evidence; they do not constitute external peer review.
 
 An additional independent experiment is a proposed future work item, not a condition that silently alters the current study or opens reserved outcomes. Its eligibility/access audit and prospective protocol must precede any confirmation claims.
